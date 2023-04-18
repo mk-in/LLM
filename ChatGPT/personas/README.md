@@ -1,0 +1,1 @@
+Writing styles in OpenAI's chatGPT through Myers–Briggs Type Indicators
